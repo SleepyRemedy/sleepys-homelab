@@ -54,13 +54,16 @@ Storage: 256 GB SSD (Proxmox VE)
 ```text
 Physical Server
 │
-└── Proxmox VE
+└── Proxmox VE (remingtonlab)
     │
-    ├── LXC: fred
+    ├── Monitoring
     │   ├── Grafana
     │   └── Prometheus
     │
-    └── LXC: docker
+    ├── LXC: ts-gateway
+    │   └── Tailscale
+    │
+    └── LXC: homepage
         │
         └── Docker
             └── Homepage Dashboard
