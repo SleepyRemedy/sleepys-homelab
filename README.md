@@ -1,34 +1,57 @@
-## Archer's Homelab
+# Archer's Homelab
 
-Personal homelab built to gain hands-on experience in systems administration, virtualization, monitoring, networking and containerization.
+> Personal homelab built to gain hands-on experience in systems administration, virtualization, monitoring, networking and containerization.
 
-Overview
+---
+
+## Overview
 
 This homelab serves as a practical learning environment alongside my training as an IT Specialist for System Integration (Fachinformatiker für Systemintegration).
 
 The goal is to build, operate and troubleshoot real infrastructure while gaining experience with modern technologies used in professional IT environments.
 
-Hardware
+---
+
+## Hardware
+
+```text
 CPU    : Intel Core i7-10700K
 RAM    : 32 GB
 GPU    : NVIDIA RTX 3070
 Storage: 256 GB SSD (Proxmox VE)
          1 TB NVMe SSD
-Current Technology Stack
-Infrastructure
-Proxmox VE
-Debian Linux
-LXC Containers
-Docker
-Monitoring
-Grafana
-Prometheus
-Networking
-Tailscale
-Cloudflare
-Services
-Homepage Dashboard
-Current Architecture
+```
+
+---
+
+## Current Technology Stack
+
+### Infrastructure
+
+* Proxmox VE
+* Debian Linux
+* LXC Containers
+* Docker
+
+### Monitoring
+
+* Grafana
+* Prometheus
+
+### Networking
+
+* Tailscale
+* Cloudflare
+
+### Services
+
+* Homepage Dashboard
+
+---
+
+## Current Architecture
+
+```text
 Physical Server
 │
 └── Proxmox VE
@@ -41,48 +64,51 @@ Physical Server
         │
         └── Docker
             └── Homepage Dashboard
-Documentation
-Setup
-Proxmox Installation
-Tailscale Setup
-Services
-Grafana
-Prometheus
-Homepage Dashboard
-Troubleshooting
-IPv6 Network Issue
-Proxmox Repository Fix
-Homepage Host Validation
-NVIDIA Driver Initialization
-Roadmap
+```
 
-Proxmox VE
+---
 
-Grafana
+## Documentation
 
-Prometheus
+### Setup
 
-Tailscale
+* Proxmox Installation
+* Tailscale Setup
 
-Wake-on-LAN
+### Services
 
-Docker
+* Grafana
+* Prometheus
+* Homepage Dashboard
 
-Homepage Dashboard
+### Troubleshooting
 
-Uptime Kuma
+* IPv6 Network Issue
+* Proxmox Repository Fix
+* Homepage Host Validation
+* NVIDIA Driver Initialization
 
-Reverse Proxy
+---
 
-Cloudflare Tunnel
+## Roadmap
 
-Nextcloud
+* [x] Proxmox VE
+* [x] Grafana
+* [x] Prometheus
+* [x] Tailscale
+* [x] Wake-on-LAN
+* [x] Docker
+* [x] Homepage Dashboard
+* [ ] Uptime Kuma
+* [ ] Reverse Proxy
+* [ ] Cloudflare Tunnel
+* [ ] Nextcloud
+* [ ] GPU Passthrough
+* [ ] Local AI Infrastructure
 
-GPU Passthrough
+---
 
-Local AI Infrastructure
-
-Lessons Learned
+## Lessons Learned
 
 This repository documents both successful deployments and troubleshooting experiences encountered during the development of the homelab.
 
