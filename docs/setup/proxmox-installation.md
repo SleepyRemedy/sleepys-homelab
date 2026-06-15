@@ -12,7 +12,8 @@ During the initial setup, several issues had to be resolved before the system be
 
 ### Related Issues
 
-- IPv6 Network Issue
-- Proxmox Repository Fix
+* [IPv6 Network Issue](../troubleshooting/ipv6-network-issue.md)
+* [Proxmox Repository Fix](../troubleshooting/proxmox-repository-fix.md)
 
 After resolving these issues, package updates and repository access worked correctly.
+
