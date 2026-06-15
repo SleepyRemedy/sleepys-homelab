@@ -41,7 +41,7 @@ The goal is to document deployments, troubleshooting steps, infrastructure decis
 
 ## Projects
 
-* [AI Companion](projects/ai-companion.md)
+* [Project Remi](projects/project-remi.md)
 * [WakeOnLan](projects/wake-on-lan.md)
 
 ## Future Topics
