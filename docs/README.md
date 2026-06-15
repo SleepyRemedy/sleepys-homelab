@@ -32,7 +32,7 @@ The goal is to document deployments, troubleshooting steps, infrastructure decis
 
 ### Hardware
 
-* [NVIDIA Driver Initialization](troubleshooting/nvidia-gpu-compatibilty-issue.md)
+* [NVIDIA Driver Initialization](troubleshooting/nvidia-gpu-compatibility-issue.md)
 
 ## Architecture
 
