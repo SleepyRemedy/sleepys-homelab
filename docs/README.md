@@ -8,6 +8,7 @@ The goal is to document deployments, troubleshooting steps, infrastructure decis
 
 * [Proxmox Installation](setup/proxmox-installation.md)
 * [Tailscale Setup](setup/tailscale-setup.md)
+* [Cloudflare Setup](setup/cloudflare-setup.md)
 
 ## Services
 
@@ -41,6 +42,7 @@ The goal is to document deployments, troubleshooting steps, infrastructure decis
 ## Projects
 
 * [AI Companion](projects/ai-companion.md)
+* [WakeOnLan](projects/wake-on-lan.md)
 
 ## Future Topics
 
