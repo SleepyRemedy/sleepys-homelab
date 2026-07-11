@@ -1,4 +1,4 @@
-# Archer's Homelab
+# Sleepy's Homelab
 
 Personal homelab built to gain hands-on experience in systems administration, virtualization, monitoring, networking and containerization.
 
