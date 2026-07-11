@@ -1,6 +1,6 @@
 # Documentation
 
-This directory contains the complete documentation of Archer's Homelab.
+This directory contains the complete documentation of Sleepy's Homelab.
 
 The goal is to document deployments, troubleshooting steps, infrastructure decisions and lessons learned throughout the project.
 
