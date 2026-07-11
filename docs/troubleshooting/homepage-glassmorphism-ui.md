@@ -2,7 +2,7 @@
 
 ## Goal
 
-The default Homepage interface was functional but did not align with the visual style envisioned for Archer's Homelab.
+The default Homepage interface was functional but did not align with the visual style envisioned for Sleepy's Homelab.
 
 The objective was to create a modern glassmorphism-inspired dashboard featuring:
 
@@ -79,7 +79,7 @@ The final dashboard includes:
 * Blur effects throughout the interface
 * A consistent dark visual theme
 
-The customized Homepage dashboard now serves as the primary entry point for Archer's Homelab.
+The customized Homepage dashboard now serves as the primary entry point for Sleepy's Homelab.
 
 ## Additional Finding
 

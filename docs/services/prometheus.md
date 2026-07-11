@@ -2,7 +2,7 @@
 
 ## Purpose
 
-Prometheus collects and stores monitoring metrics for Archer's Homelab.
+Prometheus collects and stores monitoring metrics for Sleepy's Homelab.
 
 These metrics are visualized through Grafana dashboards.
 

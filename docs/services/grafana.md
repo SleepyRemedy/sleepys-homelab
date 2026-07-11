@@ -2,7 +2,7 @@
 
 ## Purpose
 
-Grafana serves as the primary monitoring dashboard in Archer's Homelab.
+Grafana serves as the primary monitoring dashboard in Sleepy's Homelab.
 
 It provides visualization of system metrics collected by Prometheus.
 

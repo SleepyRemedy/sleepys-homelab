@@ -2,7 +2,7 @@
 
 ## Purpose
 
-Tailscale provides secure remote access to Archer's Homelab.
+Tailscale provides secure remote access to Sleepy's Homelab.
 
 The goal is to access services through a private Tailnet without exposing internal infrastructure directly to the public internet.
 

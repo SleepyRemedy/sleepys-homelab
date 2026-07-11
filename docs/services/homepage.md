@@ -2,7 +2,7 @@
 
 ## Purpose
 
-Homepage serves as the central dashboard of Archer's Homelab.
+Homepage serves as the central dashboard of Sleepy's Homelab.
 
 It provides quick access to infrastructure services, monitoring tools and external resources through a single interface.
 
@@ -51,7 +51,7 @@ Current dashboard entries include:
 
 ## Customization
 
-The dashboard was customized to match the visual style of Archer's Homelab.
+The dashboard was customized to match the visual style of Sleepy's Homelab.
 
 Customizations include:
 
@@ -78,7 +78,7 @@ Homepage initially rejected requests from custom hostnames.
 Multiple CSS iterations were required before achieving the desired glassmorphism appearance.
 ## Result
 
-Homepage now serves as the primary entry point for Archer's Homelab and provides a centralized overview of infrastructure and services.
+Homepage now serves as the primary entry point for Sleepy's Homelab and provides a centralized overview of infrastructure and services.
 
 ## Related Troubleshooting
 

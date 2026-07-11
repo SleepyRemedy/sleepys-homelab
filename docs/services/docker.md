@@ -2,7 +2,7 @@
 
 ## Purpose
 
-A dedicated LXC container was created to host Docker workloads inside Archer's Homelab.
+A dedicated LXC container was created to host Docker workloads inside Sleepy's Homelab.
 
 The first deployed service was the Homepage Dashboard.
 

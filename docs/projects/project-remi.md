@@ -2,7 +2,7 @@
 
 ## Overview
 
-Project REMI is the long-term AI project of Archer's Homelab.
+Project REMI is the long-term AI project of Sleepy's Homelab.
 
 The goal is to build a local AI companion capable of conversation, voice interaction, memory and future automation features.
 
@@ -78,6 +78,6 @@ The required infrastructure is still being prepared before implementation begins
 
 ## Long-Term Goal
 
-The final vision is a locally hosted AI companion running entirely within Archer's Homelab infrastructure.
+The final vision is a locally hosted AI companion running entirely within Sleepy's Homelab infrastructure.
 
 The project will serve as a platform for learning AI deployment, GPU acceleration, automation and software integration.
